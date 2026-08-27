@@ -4,9 +4,9 @@ The Emergent Frame is an independent research project exploring whether
 spacetime, fields, matter, and fundamental physical constants may admit a
 common geometric description.
 
-[Research website](https://theemergentframe.org) ·
-[Papers](https://theemergentframe.org/papers/) ·
-[ORCID](https://orcid.org/0009-0005-5892-0293) ·
+[Research website](https://theemergentframe.org) |
+[Papers](https://theemergentframe.org/papers/) |
+[ORCID](https://orcid.org/0009-0005-5892-0293) |
 [Research releases](https://github.com/the-emergent-frame/research-releases)
 
 ## Research releases
@@ -31,4 +31,3 @@ third-party reference files are outside the public repositories.
 
 The research program is led by
 [Xiaodan Wu](https://theemergentframe.org/about/), Independent Researcher.
-
