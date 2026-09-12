@@ -1,33 +1,57 @@
 # The Emergent Frame
 
-The Emergent Frame is an independent research project exploring whether
-spacetime, fields, matter, and fundamental physical constants may admit a
-common geometric description.
+The Emergent Frame (TEF) is an independent foundational-physics research
+programme exploring whether persistent matter topology, spacetime rollout,
+and spacetime excitation can be described within a common geometric
+framework.
 
 [Research website](https://theemergentframe.org) |
-[Papers](https://theemergentframe.org/papers/) |
-[ORCID](https://orcid.org/0009-0005-5892-0293) |
-[Research releases](https://github.com/the-emergent-frame/research-releases)
+[Research releases](https://github.com/the-emergent-frame/research-releases) |
+[ORCID](https://orcid.org/0009-0005-5892-0293)
 
-## Research releases
+## Latest research release
 
-| Release | Manuscript | Version | Archival record |
-| --- | --- | --- | --- |
-| TEF-2026-001 | [A Helical Spacetime Ansatz Linking the Planck Scale and Electroweak Mixing](https://theemergentframe.org/papers/helical-spacetime-weak-mixing/) | v5.1 | [10.5281/zenodo.22101000](https://doi.org/10.5281/zenodo.22101000) |
-| TEF-2026-002 | [From a Gravity-Calibrated Helix to a Conditional Fine-Structure Correspondence](https://theemergentframe.org/papers/helical-geometry-fine-structure-constant/) | v4.7 | [10.5281/zenodo.22117153](https://doi.org/10.5281/zenodo.22117153) |
+**TEF-2026-007, Version 2.5**
 
-Both manuscripts are preprints and have not been peer reviewed. They present
-exploratory geometric correspondences, not established physical results.
+[_The Emergent Frame: A Minimal Framework for Spacetime Rollout, Interaction,
+and Excitation_](https://doi.org/10.5281/zenodo.22723329)
 
-## What is published here
+The complete public catalogue currently covers `TEF-2026-001` through
+`TEF-2026-007`. Source files, compact numerical checks, citation metadata, and
+provenance manifests are maintained in
+[`research-releases`](https://github.com/the-emergent-frame/research-releases).
+All manuscripts are preprints and have not been peer reviewed.
 
-GitHub contains the LaTeX source, compact numerical checks, citation metadata,
-and provenance manifests for formally archived releases. Zenodo is the
-authoritative archive for frozen manuscripts and version-specific DOIs; the
-research website is the canonical human-readable record.
+## Public projects
+
+### [`research-releases`](https://github.com/the-emergent-frame/research-releases)
+
+The technical companion to formally archived TEF papers. Zenodo is the
+authoritative archive for frozen manuscripts and version-specific DOIs; this
+repository provides the corresponding source, reproducibility checks, and
+provenance records.
+
+### [`tef-emulator`](https://github.com/the-emergent-frame/tef-emulator)
+
+An experimental, event-driven computational research project for specifying
+candidate local rules, evolving their consequences, and measuring the
+resulting structures. Its initial scope is a replaceable source boundary for
+studying open-structure growth, transfer, propagation, and coarse-graining.
+
+**Current status:** repository architecture and experiment design. There is no
+runnable engine or implemented physical model yet. A simulation result would
+establish a consequence of its specified rules, not by itself evidence that
+the rules describe physical reality.
+
+## Research scope
+
+TEF is an exploratory programme rather than an established physical theory.
+The current papers organize geometric correspondences, topology-based working
+hypotheses, and testable research directions; they do not yet provide a
+completed dynamics for the known interactions.
 
 Private working notes, internal reviews, unpublished hypotheses, and
-third-party reference files are outside the public repositories.
+third-party reference files remain outside the public repositories.
 
-The research program is led by
+The research programme is led by
 [Xiaodan Wu](https://theemergentframe.org/about/), Independent Researcher.
