@@ -11,13 +11,13 @@ framework.
 
 ## Latest research release
 
-**TEF-2026-007, Version 2.5**
+**TEF-2026-008, Version 3.12**
 
-[_The Emergent Frame: A Minimal Framework for Spacetime Rollout, Interaction,
-and Excitation_](https://doi.org/10.5281/zenodo.22723329)
+[_Spacetime as Source-Local Rollout and the Conditional Emergence of
+Three-Dimensional Effective Geometry in The Emergent Frame_](https://doi.org/10.5281/zenodo.22776137)
 
 The complete public catalogue currently covers `TEF-2026-001` through
-`TEF-2026-007`. Source files, compact numerical checks, citation metadata, and
+`TEF-2026-008`. Source files, compact numerical checks, citation metadata, and
 provenance manifests are maintained in
 [`research-releases`](https://github.com/the-emergent-frame/research-releases).
 All manuscripts are preprints and have not been peer reviewed.
